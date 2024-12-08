@@ -1,4 +1,4 @@
-language: python
+language: python.
 dist: focal
 python:
   - "3.10"
